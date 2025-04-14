@@ -1,2 +1,6 @@
 # APS105
-Some Project we did in the class
+Among all APS105 labs, the most interesting for me was Lab 9, where I implemented a personal music library using linked lists. This lab helped me fully understand how to dynamically allocate and deallocate memory using malloc and free, and taught me the importance of proper memory management in C. I learned how to keep a sorted list, avoid duplicate entries, and design menu-driven programs that feel like real-world applications.
+
+Through the Reversi labs (Lab 7 & 8), I was introduced to game logic and AI strategy. I implemented board configuration, legality checking, and an algorithm to select the best move based on tile-flip scoring. In Lab 8, I was able to develop a basic AI that could play competitively against humans by maximizing flipped tiles, and even customize the strategy to outperform predefined opponents. These tasks gave me hands-on experience in algorithm design, 2D array manipulation, and even time complexity awareness due to execution time limits.
+
+Lastly, Lab 6 taught me to think systematically about grid-based problems, from word searches to simplified Sudoku. I became comfortable designing helper functions and thinking recursively or iteratively through complex 2D scenarios.
